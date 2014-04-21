@@ -4,7 +4,8 @@ Shaun Jackman
 *Bioinformatician, programmer, engineer*
 
 [LinkedIn](http://www.linkedin.com/in/sjackman)
-— [Resume](https://www.dropbox.com/s/d7mdj806squlmwz/Shaun%20Jackman.pdf)
+— [Resume](http://sjackman.ca/resume)
+  [(PDF)](https://www.dropbox.com/s/d7mdj806squlmwz/Shaun%20Jackman.pdf)
 — [Twitter](http://twitter.com/sjackman)
 — [Google Scholar](http://scholar.google.ca/citations?user=wFl3qXAAAAAJ)
 — [GitHub](https://github.com/sjackman)
