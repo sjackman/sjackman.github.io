@@ -26,7 +26,7 @@ Projects
 ABySS
 -----
 
-![ABySS](http://www.bcgsc.ca/platform/bioinfo/software/abyss/logo)
+![ABySS](abyss.png)
 
 [ABySS][] is a genome sequence assembler that distributes the computation of
 large genome sequence assembly over a cluster of computers using MPI.
@@ -36,7 +36,7 @@ large genome sequence assembly over a cluster of computers using MPI.
 White spruce genome sequence assembly
 -------------------------------------
 
-![SMarTForests](http://www.smartforests.ca/Portals/0/LOGO_Smartforest.png)
+![SMarTForests](smartforests.png)
 
 The [SMarTForests][] project used [ABySS][] to assemble the genome of the white
 spruce tree, which is twenty gigabases&mdash;seven times larger than the human
