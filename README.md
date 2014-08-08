@@ -23,6 +23,23 @@ amateur chef.
 Projects
 ========
 
+UniqTag
+-------
+
+[UniqTag][] is used to abbreviate gene sequences to unique and stable
+identifiers. It selects a representative *k*-mer from the sequence of each gene
+to be used as a systematic identifier for that gene. Unlike serial numbers,
+these identifiers are stable between different assemblies and annotations of
+the same data without requiring that previous annotations be lifted over by
+sequence alignment.
+
+[Shaun D. Jackman, Joerg Bohlmann, İnanç Birol (2014)][uniqtag-paper]
+UniqTag: Content-derived unique and stable identifiers for gene annotation.
+*bioRxiv*, [doi:10.1101/007583](http://dx.doi.org/10.1101/007583).
+
+[UniqTag]: https://github.com/sjackman/uniqtag
+[uniqtag-paper]: https://github.com/sjackman/uniqtag-paper
+
 ABySS
 -----
 
