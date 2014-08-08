@@ -11,8 +11,8 @@
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script type="text/javascript" src="javascripts/script.js"></script>
 
-  <title>Shaun Jackman</title>
-  <meta name="description" content="PhD student in bioinformatics, programmer, engineer">
+  <title>{{page.title}}</title>
+  <meta name="description" content="{{page.tagline}}">
 
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
@@ -22,55 +22,19 @@
 
   <div class="wrapper">
     <header>
-      <h1 class="title">Shaun Jackman</h1>
+      <h1 class="title">{{page.title}}</h1>
     </header>
     <div id="container">
-      <p class="tagline">PhD student in bioinformatics, programmer, engineer</p>
+      <p class="tagline">{{page.tagline}}</p>
       <div id="main" role="main">
         <div class="download-bar">
         <div class="inner">
-          <a href="https://github.com/sjackman" class="code">View Shaun Jackman on GitHub</a>
+          <a href="https://github.com/sjackman" class="code">View {{page.title}} on GitHub</a>
         </div>
         <span class="blc"></span><span class="trc"></span>
         </div>
         <article class="markdown-body">
-          <p><a href="http://www.linkedin.com/in/sjackman">LinkedIn</a>
-— <a href="http://sjackman.ca/resume">Resume</a>
-  <a href="https://www.dropbox.com/s/d7mdj806squlmwz/Shaun%20Jackman.pdf">(PDF)</a>
-— <a href="http://twitter.com/sjackman">Twitter</a>
-— <a href="http://scholar.google.ca/citations?user=wFl3qXAAAAAJ">Google Scholar</a>
-— <a href="https://github.com/sjackman">GitHub</a>
-— <a href="http://about.me/sjackman">about.me</a></p>
-
-<p>I live in Vancouver, Canada, where I'm a PhD student studying bioinformatics at
-the University of British Columbia with my supervisor, Inanc Birol. I work
-with the genome sequencing data of a variety of species, including human and
-the white spruce tree. I develop software that takes fragmented genome
-sequencing data and attempts to reassemble the original genome from which the
-short fragments were derived. My undergraduate degree is in computer
-engineering. I'm a programmer, an avid traveller, a singer, and an experimental
-amateur chef.</p>
-
-<h1>
-<a name="projects" class="anchor" href="#projects"><span class="octicon octicon-link"></span></a>Projects</h1>
-
-<h2>
-<a name="abyss" class="anchor" href="#abyss"><span class="octicon octicon-link"></span></a>ABySS</h2>
-
-<p><img src="abyss.png" alt="ABySS"></p>
-
-<p><a href="https://github.com/bcgsc/abyss">ABySS</a> is a genome sequence assembler that distributes the computation of
-large genome sequence assembly over a cluster of computers using MPI.</p>
-
-<h2>
-<a name="white-spruce-genome-sequence-assembly" class="anchor" href="#white-spruce-genome-sequence-assembly"><span class="octicon octicon-link"></span></a>White spruce genome sequence assembly</h2>
-
-<p><img src="smartforests.png" alt="SMarTForests"></p>
-
-<p>The <a href="http://www.smartforests.ca/">SMarTForests</a> project used <a href="https://github.com/bcgsc/abyss">ABySS</a> to assemble the genome of the white
-spruce tree, which is twenty gigabases—seven times larger than the human
-genome. I'm currently working on assembling and annotating the organellar
-genomes of white spruce, the mitochondrion and chloroplast.</p>
+{{content}}
         </article>
       </div>
     </div>
