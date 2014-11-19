@@ -61,3 +61,16 @@ genome. I'm currently working on assembling and annotating the organellar
 genomes of white spruce, the mitochondrion and chloroplast.
 
 [SMarTForests]: http://www.smartforests.ca/
+
+Presentations
+================================================================================
+
+[Automating Data-analysis Pipelines using R and Make](http://stat545-ubc.github.io/automation01_slides/)
+and a [hands-on activity](http://stat545-ubc.github.io/automation04_make-activity.html)
+
+[Open, reproducible science using Make, RMarkdown and Pandoc](http://sjackman.github.io/open-science/)
+
+More slides on [Speaker Deck][] and [SlideShare][]
+
+[SlideShare]: http://www.slideshare.net/shaunjackman
+[Speaker Deck]: https://speakerdeck.com/sjackman
