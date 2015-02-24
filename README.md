@@ -9,7 +9,7 @@ Shaun Jackman
 — [Twitter](http://twitter.com/sjackman)
 — [Google Scholar](http://scholar.google.ca/citations?user=wFl3qXAAAAAJ)
 — [GitHub](https://github.com/sjackman)
-— [about.me](http://about.me/sjackman)
+— [Impactstory](https://impactstory.org/sjackman)
 
 I live in Vancouver, Canada, where I'm a PhD student studying bioinformatics at
 the University of British Columbia with my supervisor, Inanc Birol. I work
