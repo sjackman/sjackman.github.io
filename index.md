@@ -4,13 +4,14 @@ tagline: PhD student in bioinformatics, programmer, engineer
 layout: index
 ---
 
-[LinkedIn](http://www.linkedin.com/in/sjackman)
-— [Resume](http://sjackman.ca/resume)
-  [(PDF)](https://www.dropbox.com/s/d7mdj806squlmwz/Shaun%20Jackman.pdf)
+[GitHub](https://github.com/sjackman)
 — [Twitter](http://twitter.com/sjackman)
 — [Google Scholar](http://scholar.google.ca/citations?user=wFl3qXAAAAAJ)
-— [GitHub](https://github.com/sjackman)
 — [Impactstory](https://impactstory.org/sjackman)
+— [LinkedIn](http://www.linkedin.com/in/sjackman)
+— [Resume](http://sjackman.ca/resume)
+  [(PDF)](https://www.dropbox.com/s/d7mdj806squlmwz/Shaun%20Jackman.pdf)  
+<sjackman@gmail.com>
 
 I live in Vancouver, Canada, where I'm a PhD student studying bioinformatics at
 the University of British Columbia with my supervisor, Inanc Birol. I work
