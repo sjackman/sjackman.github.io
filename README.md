@@ -34,9 +34,9 @@ these identifiers are stable between different assemblies and annotations of
 the same data without requiring that previous annotations be lifted over by
 sequence alignment.
 
-[Shaun D. Jackman, Joerg Bohlmann, İnanç Birol (2014)][uniqtag-paper]
+[Shaun D. Jackman, Joerg Bohlmann, İnanç Birol (2015)][uniqtag-paper]
 UniqTag: Content-derived unique and stable identifiers for gene annotation.
-*bioRxiv*, [doi:10.1101/007583](http://dx.doi.org/10.1101/007583).
+*PLOS ONE*, [doi:10.1371/journal.pone.0128026](http://dx.doi.org/10.1371/journal.pone.0128026).
 
 [UniqTag]: https://github.com/sjackman/uniqtag
 [uniqtag-paper]: https://github.com/sjackman/uniqtag-paper
