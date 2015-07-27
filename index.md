@@ -1,6 +1,6 @@
 ---
 title: Shaun Jackman
-tagline: PhD student in bioinformatics, programmer, engineer
+tagline: PhD candidate in bioinformatics, programmer, engineer
 layout: index
 ---
 
@@ -13,7 +13,7 @@ layout: index
   [(PDF)](https://www.dropbox.com/s/d7mdj806squlmwz/Shaun%20Jackman.pdf)  
 <sjackman@gmail.com>
 
-I live in Vancouver, Canada, where I'm a PhD student studying bioinformatics at
+I live in Vancouver, Canada, where I'm a PhD candidate studying bioinformatics at
 the University of British Columbia with my supervisor, Inanc Birol. I work
 with the genome sequencing data of a variety of species, including human and
 the white spruce tree. I develop software that takes fragmented genome
