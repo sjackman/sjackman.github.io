@@ -25,6 +25,17 @@ amateur chef.
 Projects
 ========
 
+Organellar Genomes of White Spruce
+----------------------------------
+
+Chloroplast genomes of gymnosperms, including conifers, are well studied, but little is known about the mitochondria of gymnosperms. In fact, only a single gymnosperm mitochondrion is found in NCBI GenBank, and no conifer mitochondrion genomes are to be found at all, until now. Roughly one percent of the whole genome sequencing reads of white spruce are from its two organellar genomes: the chloroplast and mitochondrion. We assembled these reads using [ABySS][] and found the mitochondrion genome to be nearly six megabases, which is unusually large for a mitochondrial genome. Although many genes typical of mitochondria were found in the genome, most open reading frames had no similarity to any known gene.
+
+Shaun D Jackman, et al. (2016)
+Organellar Genomes of White Spruce (*Picea glauca*): Assembly and Annotation.
+*Genome Biology and Evolution*, [doi:10.1093/gbe/evv244](http://gbe.oxfordjournals.org/content/8/1/29)
+
+GitHub repositories: [pgcpdna](https://github.com/sjackman/pgcpdna), [pgmtdna](https://github.com/sjackman/pgmtdna)
+
 UniqTag
 -------
 
