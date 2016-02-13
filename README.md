@@ -35,6 +35,10 @@ Organellar Genomes of White Spruce (*Picea glauca*): Assembly and Annotation.
 
 GitHub repositories: [pgcpdna](https://github.com/sjackman/pgcpdna), [pgmtdna](https://github.com/sjackman/pgmtdna)
 
+**The genes of the white spruce mitochondrion**
+
+[![White spruce mitochondrial genes](images/pgmt-genes.png)](http://gbe.oxfordjournals.org/content/8/1/29/F2.expansion.html)
+
 UniqTag
 -------
 
