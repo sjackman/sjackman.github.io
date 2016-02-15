@@ -82,12 +82,15 @@ genomes of white spruce, the mitochondrion and chloroplast.
 Presentations
 ================================================================================
 
-[Automating Data-analysis Pipelines using R and Make](http://stat545-ubc.github.io/automation01_slides/)
+## [Automating Data-analysis Pipelines using R and Make](http://stat545-ubc.github.io/automation01_slides/)
+
 and a [hands-on activity](http://stat545-ubc.github.io/automation04_make-activity.html)
 
-[Open, reproducible science using Make, RMarkdown and Pandoc](http://sjackman.github.io/open-science/)
+Bioinformatics analysis often involves designing a pipeline of commands and running that pipeline on many data sets. There are many ways to tackle this common task. Running commands interactively at the command line has the downside of being terribly unreproducible, unless one's memory is fantastically infallible. Recording the commands in a shell script certainly beats storing the commands in one's leaky brain, but is not particularly well suited to resuming the pipeline at a particular point, as is necessary after making a change to one step of the pipeline, nor to running independents steps in parallel. The venerable UNIX Make program is surprisingly well suited to describing bioinformatics pipelines. Make can resume a pipeline after a failed command without needing to start over, and it runs independent jobs in parallel. A Makefile describes a pipeline of shell commands and the interdependencies of the input and output files of those commands. A Makefile can be easily displayed as a graphical flow chart of files and shell commands, and such a visualization is a pleasing and powerful way to interpret a pipeline oneself or to communicate a pipeline to a collaborator.
 
-More slides on [Speaker Deck][] and [SlideShare][]
+## [Open, reproducible science using Make, RMarkdown and Pandoc](http://sjackman.github.io/open-science/)
+
+## More slides on [Speaker Deck][] and [SlideShare][]
 
 [SlideShare]: http://www.slideshare.net/shaunjackman
 [Speaker Deck]: https://speakerdeck.com/sjackman
