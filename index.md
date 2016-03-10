@@ -34,7 +34,7 @@ My research
 Written using [The Up Goer Five Text Editor](http://splasho.com/upgoer5/) and inspired by Keith Bradnam's blog post [How would you describe genomics without using any scientific jargon?](http://www.acgt.me/blog/2016/2/26/how-would-you-describe-genomics-without-using-any-scientific-jargon) and Randall Munroe's excellent [xkcd: Up Goer Five](https://xkcd.com/1133/).
 
 Projects
-========
+================================================================================
 
 [Linuxbrew](http://linuxbrew.sh/) and [Homebrew-science](http://brew.sh/homebrew-science/)
 ----------------------------------
@@ -42,6 +42,9 @@ Projects
 [Linuxbrew](http://linuxbrew.sh) is a fork of [Homebrew](http://brew.sh), the Mac OS package manager, for Linux. It can be installed in your home directory and does not require root access. The same package manager can be used on both your Linux server and your Mac laptop. Installing a modern version of *glibc* and *gcc* in your home directory on an old distribution of Linux takes five minutes. [Over two hundred](https://github.com/Homebrew/homebrew-science/search?q=bioinformatics) current bioinformatics software packages are available in [Homebrew-science](https://github.com/Homebrew/homebrew-science).
 
 [![Cautionary: xkcd comic 456](https://imgs.xkcd.com/comics/cautionary.png)](http://xkcd.com/456/)
+
+Papers
+================================================================================
 
 Organellar Genomes of White Spruce
 ----------------------------------
