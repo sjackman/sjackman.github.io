@@ -7,7 +7,7 @@ layout: index
 [GitHub](https://github.com/sjackman)
 — [Twitter](http://twitter.com/sjackman)
 — [Google Scholar](http://scholar.google.ca/citations?user=wFl3qXAAAAAJ)
-— [Impactstory](https://impactstory.org/sjackman)
+— [Impactstory](https://impactstory.org/u/0000-0002-9275-5966)
 — [LinkedIn](http://www.linkedin.com/in/sjackman)
 — [Resume](http://sjackman.ca/resume)
   [(PDF)](https://www.dropbox.com/s/d7mdj806squlmwz/Shaun%20Jackman.pdf)  
