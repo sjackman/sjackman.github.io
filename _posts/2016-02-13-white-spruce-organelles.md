@@ -10,6 +10,8 @@ Shaun D Jackman, et al. (2016)
 Organellar Genomes of White Spruce (*Picea glauca*): Assembly and Annotation.
 *Genome Biology and Evolution*, [doi:10.1093/gbe/evv244](http://gbe.oxfordjournals.org/content/8/1/29)
 
+Poster: [doi:10.7490/f1000research.1112919.1](http://f1000research.com/posters/5-2072)
+
 GitHub repositories: [pgcpdna](https://github.com/sjackman/pgcpdna), [pgmtdna](https://github.com/sjackman/pgmtdna)
 
 **The genes of the white spruce mitochondrion**
