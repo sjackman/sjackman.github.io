@@ -11,6 +11,10 @@ layout: page
 
 # Slides
 
++ [PAG 2017](http://sjackman.ca/picea-sitchensis-organelles-slides/)
+  • Organellar Genomes of Sitka Spruce (Picea sitchensis): Assembly and Annotation
++ [SMRT Informatics Developers Conference 2017](http://sjackman.ca/gfa2-slides/)
+  • Graphical Fragment Assembly (GFA) 2.0
 + [ISMB 2016](http://sjackman.ca/linuxbrew-slides)
   • Homebrewing Science with Linuxbrew and Homebrew
 + [STAT545 2015](http://stat545-ubc.github.io/automation01_slides/)
@@ -22,6 +26,8 @@ layout: page
 
 # Posters
 
++ PAG 2017
+  • Organellar Genomes of Sitka Spruce (*Picea sitchensis*): Assembly and Annotation
 + ISMB 2016
   • Linuxbrew and Homebrew for cross-platform package management
 + ISMB 2016
