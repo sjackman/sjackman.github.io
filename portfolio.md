@@ -30,21 +30,21 @@ layout: page
 
 + [ISMB 2017](https://f1000research.com/posters/6-1406)
   • Tigmint: Correct Misassemblies Using Linked Reads From Large Molecules
-+ PAG 2017
++ [PAG 2017, AGBT 2017](https://f1000research.com/posters/6-132)
   • Organellar Genomes of Sitka Spruce (*Picea sitchensis*): Assembly and Annotation
-+ ISMB 2016
-  • Linuxbrew and Homebrew for cross-platform package management
-+ ISMB 2016
-  • Organellar genomes of white spruce (*Picea glauca*): Assembly and annotation
-+ RECOMB 2015
-  • Scaling ABySS to longer reads using spaced *k*-mers and Bloom filters
-+ ISMB 2014 •
-  ABySS-Konnector: Connecting paired-end reads by navigating a Bloom filter de Bruijn graph
++ [ISMB 2016 BOSC](https://f1000research.com/posters/5-1795)
+  • Linuxbrew and Homebrew for Cross-platform Package Management
++ [ISMB 2016 HiTSeq](https://f1000research.com/posters/5-2072)
+  • Organellar Genomes of White spruce (*Picea glauca*): Assembly and annotation
++ [RECOMB 2015](https://f1000research.com/posters/1097878)
+  • Scaling ABySS to Longer Reads Using Spaced *k*-mers and Bloom Filters
++ [ISMB 2014](https://f1000research.com/posters/1096524)
+  • ABySS-Konnector: Connecting Paired-end Reads by Navigating a bloom Filter de Bruijn Graph
 + PAG 2014
-  • Assembling the genomes of the plastid and mitochondrion of white spruce (*Picea glauca*)
+  • Assembling the Genomes of the Plastid and Mitochondrion of White Spruce (*Picea glauca*)
 + APBC 2013
-  • Scaffolding large genomes using mate-pair sequencing and ABySS
+  • Scaffolding Large Genomes Using Mate-pair Sequencing and ABySS
 + BCCDC 2013
-  • Outbreak investigation of *Salmonella enteritidis* using genomic epidemiology
+  • Outbreak Investigation of *Salmonella enteritidis* Using Genomic Epidemiology
 + STAT540 2013
-  • Analysis of gene expression omnibus leukaemia data from the Illumina HumanMethylation450 Array
+  • Analysis of Gene Expression Omnibus Leukaemia Data from the Illumina HumanMethylation450 Array
