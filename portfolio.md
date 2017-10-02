@@ -11,6 +11,8 @@ layout: page
 
 # Slides
 
++ [ISMB 2017](http://sjackman.ca/tigmint-slides/)
+  • Tigmint: Correct Misassemblies Using Linked Reads From Large Molecules
 + [PAG 2017](http://sjackman.ca/picea-sitchensis-organelles-slides/)
   • Organellar Genomes of Sitka Spruce (Picea sitchensis): Assembly and Annotation
 + [SMRT Informatics Developers Conference 2017](http://sjackman.ca/gfa2-slides/)
@@ -26,6 +28,8 @@ layout: page
 
 # Posters
 
++ [ISMB 2017](https://f1000research.com/posters/6-1406)
+  • Tigmint: Correct Misassemblies Using Linked Reads From Large Molecules
 + PAG 2017
   • Organellar Genomes of Sitka Spruce (*Picea sitchensis*): Assembly and Annotation
 + ISMB 2016
