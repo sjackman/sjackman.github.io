@@ -9,6 +9,7 @@ navbar-links:
     - ABySS: "https://github.com/bcgsc/abyss"
     - Linuxbrew: "http://linuxbrew.sh"
     - BrewScience: "https://github.com/Homebrew/homebrew-science"
+    - Tigmint: "https://bcgsc.github.io/tigmint/"
     - UniqTag: "https://github.com/sjackman/uniqtag"
   Portfolio:
     - Code: "https://github.com/sjackman"
