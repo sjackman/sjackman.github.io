@@ -14,7 +14,7 @@ layout: page
 + [ISMB 2017](http://sjackman.ca/tigmint-slides/)
   • Tigmint: Correct Misassemblies Using Linked Reads From Large Molecules
 + [PAG 2017](http://sjackman.ca/picea-sitchensis-organelles-slides/)
-  • Organellar Genomes of Sitka Spruce (Picea sitchensis): Assembly and Annotation
+  • Organellar Genomes of Sitka Spruce (*Picea sitchensis*): Assembly and Annotation
 + [SMRT Informatics Developers Conference 2017](http://sjackman.ca/gfa2-slides/)
   • Graphical Fragment Assembly (GFA) 2.0
 + [ISMB 2016](http://sjackman.ca/linuxbrew-slides)
