@@ -7,8 +7,8 @@ avatar: "/img/shaun-jackman-square.jpg"
 navbar-links:
   Projects:
     - ABySS: "https://github.com/bcgsc/abyss"
+    - Brewsci: "https://github.com/brewsci/homebrew-bio"
     - Linuxbrew: "http://linuxbrew.sh"
-    - BrewScience: "https://github.com/Homebrew/homebrew-science"
     - Tigmint: "https://bcgsc.github.io/tigmint/"
     - UniqTag: "https://github.com/sjackman/uniqtag"
   Portfolio:
