@@ -14,6 +14,8 @@ layout: page
 + [RECOMB 2018](http://sjackman.ca/tigmint-recomb-slides/)
   and [ISMB 2017](http://sjackman.ca/tigmint-slides/)
   • Tigmint: Correcting Misassemblies Using Linked Reads From Large Molecules
++ [RECOMB 2018](http://sjackman.ca/abyss2-slides/)
+  • ABySS 2.0: Resource-efficient assembly of large genomes using a Bloom filter
 + [PAG 2017](http://sjackman.ca/picea-sitchensis-organelles-slides/)
   • Organellar Genomes of Sitka Spruce (*Picea sitchensis*): Assembly and Annotation
 + [SMRT Informatics Developers Conference 2017](http://sjackman.ca/gfa2-slides/)
