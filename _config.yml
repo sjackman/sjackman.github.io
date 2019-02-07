@@ -6,13 +6,13 @@ avatar: "/img/shaun-jackman-square.jpg"
 
 navbar-links:
   Projects:
-    - ABySS: "https://github.com/bcgsc/abyss"
-    - Brewsci/bio: "https://github.com/brewsci/homebrew-bio"
+    - ABySS: "https://github.com/bcgsc/abyss#readme"
+    - Brewsci/bio: "https://brewsci.github.io/homebrew-bio/"
     - Homebrew: "https://brew.sh"
     - Linuxbrew: "https://linuxbrew.sh"
     - ORCA: "http://www.bcgsc.ca/services/orca"
     - Tigmint: "https://bcgsc.github.io/tigmint/"
-    - UniqTag: "https://github.com/sjackman/uniqtag"
+    - UniqTag: "https://github.com/sjackman/uniqtag#readme"
   Papers:
     - Google Scholar: "http://scholar.google.ca/citations?user=wFl3qXAAAAAJ"
     - PubMed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Jackman+Shaun%5BAuthor%5D"
