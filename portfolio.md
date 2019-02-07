@@ -6,8 +6,10 @@ layout: page
 
 # Papers
 
-+ [Google Scholar](http://scholar.google.ca/citations?user=wFl3qXAAAAAJ)
-+ [Impactstory](https://impactstory.org/u/0000-0002-9275-5966)
+- [Google Scholar](http://scholar.google.ca/citations?user=wFl3qXAAAAAJ)
+- [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Jackman+Shaun%5BAuthor%5D)
+- [ORCID](https://orcid.org/0000-0002-9275-5966)
+- [Impactstory](https://impactstory.org/u/0000-0002-9275-5966)
 
 # Slides
 
