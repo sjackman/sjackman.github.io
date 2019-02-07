@@ -7,21 +7,23 @@ avatar: "/img/shaun-jackman-square.jpg"
 navbar-links:
   Projects:
     - ABySS: "https://github.com/bcgsc/abyss"
-    - Brewsci: "https://github.com/brewsci/homebrew-bio"
-    - Linuxbrew: "http://linuxbrew.sh"
+    - Brewsci/bio: "https://github.com/brewsci/homebrew-bio"
+    - Homebrew: "https://brew.sh"
+    - Linuxbrew: "https://linuxbrew.sh"
+    - ORCA: "http://www.bcgsc.ca/services/orca"
     - Tigmint: "https://bcgsc.github.io/tigmint/"
     - UniqTag: "https://github.com/sjackman/uniqtag"
-  Portfolio:
-    - Code: "https://github.com/sjackman"
-    - Papers: "http://scholar.google.ca/citations?user=wFl3qXAAAAAJ"
+  Papers:
+    - Google Scholar: "http://scholar.google.ca/citations?user=wFl3qXAAAAAJ"
+    - PubMed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Jackman+Shaun%5BAuthor%5D"
+    - ORCID: "https://orcid.org/0000-0002-9275-5966"
+    - Impactstory: "https://impactstory.org/u/0000-0002-9275-5966"
     - Posters & Slides: "portfolio"
-  Activity:
+  Online:
     - GitHub: "https://github.com/sjackman"
     - Twitter: "http://twitter.com/sjackman"
-    - Google Scholar: "http://scholar.google.ca/citations?user=wFl3qXAAAAAJ"
-    - Impactstory: "https://impactstory.org/u/0000-0002-9275-5966"
-    - Resume: "http://sjackman.ca/resume"
     - LinkedIn: "http://www.linkedin.com/in/sjackman"
+  Resume: "http://sjackman.ca/resume"
   About Me: "about-me"
 
 author:
