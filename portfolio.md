@@ -6,30 +6,30 @@ layout: page
 
 # Papers
 
-- [Google Scholar](http://scholar.google.ca/citations?user=wFl3qXAAAAAJ)
+- [Google Scholar](https://scholar.google.ca/citations?user=wFl3qXAAAAAJ)
 - [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Jackman+Shaun%5BAuthor%5D)
 - [ORCID](https://orcid.org/0000-0002-9275-5966)
 - [Impactstory](https://impactstory.org/u/0000-0002-9275-5966)
 
 # Slides
 
-+ [RECOMB 2018](http://sjackman.ca/tigmint-recomb-slides/)
-  and [ISMB 2017](http://sjackman.ca/tigmint-slides/)
++ [RECOMB 2018](https://sjackman.ca/tigmint-recomb-slides/)
+  and [ISMB 2017](https://sjackman.ca/tigmint-slides/)
   • Tigmint: Correcting Misassemblies Using Linked Reads From Large Molecules
-+ [RECOMB 2018](http://sjackman.ca/abyss2-slides/)
++ [RECOMB 2018](https://sjackman.ca/abyss2-slides/)
   • ABySS 2.0: Resource-efficient assembly of large genomes using a Bloom filter
-+ [PAG 2017](http://sjackman.ca/picea-sitchensis-organelles-slides/)
++ [PAG 2017](https://sjackman.ca/picea-sitchensis-organelles-slides/)
   • Organellar Genomes of Sitka Spruce (*Picea sitchensis*): Assembly and Annotation
-+ [SMRT Informatics Developers Conference 2017](http://sjackman.ca/gfa2-slides/)
++ [SMRT Informatics Developers Conference 2017](https://sjackman.ca/gfa2-slides/)
   • Graphical Fragment Assembly (GFA) 2.0
-+ [ISMB 2016](http://sjackman.ca/linuxbrew-slides)
++ [ISMB 2016](https://sjackman.ca/linuxbrew-slides)
   • Homebrewing Science with Linuxbrew and Homebrew
 + [STAT545 2015](http://stat545-ubc.github.io/automation01_slides/)
   • Automating Data-analysis Pipelines using R and Make
   • [hands-on activity](http://stat545-ubc.github.io/automation04_make-activity.html)
-+ [VanBUG 2014](http://sjackman.ca/open-science)
++ [VanBUG 2014](https://sjackman.ca/open-science)
   • Open, reproducible science using Make, RMarkdown and Pandoc
-+ More slides on [Speaker Deck](http://www.slideshare.net/shaunjackman) and [SlideShare](https://speakerdeck.com/sjackman)
++ More slides on [Speaker Deck](https://www.slideshare.net/shaunjackman) and [SlideShare](https://speakerdeck.com/sjackman)
 
 # Posters
 
