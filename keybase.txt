@@ -1,0 +1,79 @@
+---
+layout: none
+permalink: .well-known/keybase.txt
+---
+
+==================================================================
+https://keybase.io/sjackman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sjackman.ca
+  * I am sjackman (https://keybase.io/sjackman) on keybase.
+  * I have a public key with fingerprint FEDD 8BFA 71ED 33F4 F8F4  F469 D4ED 5223 F4E5 7996
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f424efa9bfbda29a04b5e49afe02d4188d5f088c7fce6c4ef08dd93eea08141c0a",
+      "fingerprint": "fedd8bfa71ed33f4f8f4f469d4ed5223f4e57996",
+      "host": "keybase.io",
+      "key_id": "d4ed5223f4e57996",
+      "kid": "0101f424efa9bfbda29a04b5e49afe02d4188d5f088c7fce6c4ef08dd93eea08141c0a",
+      "uid": "1aee9d960ac868f49b25a8ff55512619",
+      "username": "sjackman"
+    },
+    "service": {
+      "hostname": "sjackman.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1550795978,
+  "expire_in": 157680000,
+  "prev": "e879cad613964d83371847e6fc39fb9840a6a28d483b50a7fa19e0e6df57b2b7",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNDAnicrZJtTFtVGMdbwA0I6IhsYIo478YmScV72/taJrCEKJuObGRTllXLufee
+W+7Keru2FHCDwBoGjk1kDsrsZGHighCBwBQ2FwaCkoAuw1UIyhBfGCgvWWJ1vMjm
+vUS/GD96kpOT85zf83/+z5PTHx6oClX75jO2+KcKatRDvZ5clVFKHTyGsBJfgBiO
+IRa4dsAcHjqcJovIIwYExVBMwHU4FADDCiwPdAxAcZaAOAMEiOp4HKNpnhBQmuYo
+gYMkJ6MozfOMHkKA0hiOcShAtIggWs3QbrOLVqcsK0Cep1kBUBjk9XoBF2h54yTD
+45AndDo5AgmKYUg5MVtyKBmyORY4YIIoyTH5Ylqz9x/8/+w7d00OAxAyPEOigKNJ
+2SvD6ghACwJBEJiOxBgFdEC7FRyBMu04DDjLEWBFCrWIHHWJHFQGq3TyLyKBU2rY
+7JJT4qQc+SHb6bQ5DEqis8CmkHmQNf2tYWJFKy+PUc5wQbtDlKyIAZNJzikqohhB
+oBRDMBStRWC+TbRDk6gQBEXSqLyUOtAlS0KaYjjAk5ieIXGe1uspjMYpSAqcnhFY
+hsZRQAIdzeO0niVQQAkAYyAKSV4gKFbHUojS1VGrhBj0uOwTmJWGRLMVOHPtECn8
+rNcYpFKHqtY9EqD8L1VoyIZ/fl3h1Q2q9uKYu3smZtuqutcv+F7qznK9PVIO5m42
+3B4Lrz6QoX8179LchHOH6ewzWZuy6qI/n506RwdpEww/bXtlNq3BE9bTUpT8ZMVT
+/rcWr5bXHZg+tZ/wpx+/trdP625t9c3ZSt+NHZc+4XQDm7ctDI3015jiP84AR5NG
+I8m0sK0OjzbxkCb/OPlY5sT7cHHZfMW7XrM5G49w/9ikWg2ffDD1YmUXORJR1bLl
+5dCl25oLZ4fZjqToFPWSx7V9ay11olLjGYkxBgZEp8eWBZw8rSZfv7V4KCzh4vPe
+kU274yrM11LP1zI/RPLVzX+kpvuTl74dcPVlzt1o8Y823mur76e7e90RBz+6GCn8
+dvru8r0dy4mr45Pj7svGoNW27W8g33gDlgui3uvfOF+90Khp33/l+8K60PngoptR
+2tKlprTAtHCfxXh5xp1/Z/rDuIjKic7R5LHOjStN9+t/RXKafTO79J0Nd6TcL3rK
+iocuLD5MKWgaPCxlevec68qJ9eYOD5acNI3G764IKzdYS3aqwxpPdbi/W6ka+x25
+/7DD94v5WfXjq0llRsfAGVj05vUvH/2gZu9g/fmO1j8n85rjlt4R/H0hlsqdn2qe
+3rd6xlt76bnSxEgxNjv4Bde6/Ncsxfmz+2KqH0RlHZxOGS5jsr66LpStRM7sig8Z
+g/3YEzduVX/9c0/XiZL24L8A5l3NlQ==
+=dT7K
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sjackman
+
+==================================================================
