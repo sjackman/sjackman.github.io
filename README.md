@@ -1,7 +1,7 @@
 Shaun Jackman
 =============
 
-*PhD candidate in bioinformatics, programmer, engineer*
+*PhD graduate in bioinformatics, programmer, engineer*
 
 [GitHub](https://github.com/sjackman)
 — [Twitter](http://twitter.com/sjackman)
