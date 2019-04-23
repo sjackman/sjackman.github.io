@@ -1,4 +1,4 @@
-url: "http://sjackman.ca"
+url: "https://sjackman.ca"
 baseurl: ""
 title: "@sjackman"
 description: "PhD graduate in bioinformatics, programmer, engineer"
@@ -10,20 +10,20 @@ navbar-links:
     - Brewsci/bio: "https://brewsci.github.io/homebrew-bio/"
     - Homebrew: "https://brew.sh"
     - Linuxbrew: "https://linuxbrew.sh"
-    - ORCA: "http://www.bcgsc.ca/services/orca"
+    - ORCA: "https://www.bcgsc.ca/services/orca"
     - Tigmint: "https://bcgsc.github.io/tigmint/"
     - UniqTag: "https://github.com/sjackman/uniqtag#readme"
   Papers:
-    - Google Scholar: "http://scholar.google.ca/citations?user=wFl3qXAAAAAJ"
+    - Google Scholar: "https://scholar.google.ca/citations?user=wFl3qXAAAAAJ"
     - PubMed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Jackman+Shaun%5BAuthor%5D"
     - ORCID: "https://orcid.org/0000-0002-9275-5966"
     - Impactstory: "https://impactstory.org/u/0000-0002-9275-5966"
     - Posters & Slides: "portfolio"
   Online:
     - GitHub: "https://github.com/sjackman"
-    - Twitter: "http://twitter.com/sjackman"
-    - LinkedIn: "http://www.linkedin.com/in/sjackman"
-  Resume: "http://sjackman.ca/resume"
+    - Twitter: "https://twitter.com/sjackman"
+    - LinkedIn: "https://www.linkedin.com/in/sjackman"
+  Resume: "https://sjackman.ca/resume"
   About Me: "about-me"
 
 author:
