@@ -3,6 +3,7 @@ baseurl: ""
 title: "@sjackman"
 description: "PhD graduate in bioinformatics, programmer, engineer"
 avatar: "/img/shaun-jackman-square.jpg"
+avatarurl: "https://sjackman.ca/about-me/"
 
 navbar-links:
   Projects:
