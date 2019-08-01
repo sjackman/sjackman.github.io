@@ -33,6 +33,8 @@ layout: page
 
 # Posters
 
++ [ISMB 2019](https://f1000research.com/posters/8-1310)
+  • Physlr: Construct a Physical Map from Linked Reads
 + [RECOMB 2018](https://f1000research.com/posters/7-481)
   and [ISMB 2017](https://f1000research.com/posters/6-1406)
   • Tigmint: Correcting Misassemblies Using Linked Reads From Large Molecules
